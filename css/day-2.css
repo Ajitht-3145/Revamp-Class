@@ -1,0 +1,44 @@
+.para{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 29px;
+    font-weight: 900;
+    text-align: center;
+    text-transform: capitalize;
+    text-decoration:underline;
+    color: blue;
+
+}
+
+.container{
+    background-color: black;
+    height: 600px;
+    background-image: url(../assets/ajit.jpg);
+    background-size: cover;
+    
+
+
+
+    
+}
+.div-container{
+    color: #818181;
+}
+.box-model{
+    width: 200px;
+    height: 200px;
+    background-color: yellow;
+    padding-top: 20px;
+    padding-bottom: 10px;
+    padding-left: 3px;
+    padding-right: 5px;
+    border: 3px solid #121212;
+    border-bottom: 7px solid #121212;
+    border-style: solid;
+    border-color: blue;
+    margin-left: 80px;
+    margin-bottom: 50px;
+    margin-top: 70px;
+    
+
+
+}
